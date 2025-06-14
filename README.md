@@ -8,7 +8,8 @@ Flower code tiktok trend
 Responsive Web -- bisa langsung disesuikan di file css --> style.css
 
 # Author
-- Flower Code : Md Usman Ansari (@MdUsmanAnsari)
-- Index Code : Septian Dwi Cahyo (@Septiandwica)
+- Flower Code : padli088(found and)
+  
+- Index Code : weko oklama(found and)
 
-Thanks to codepan and mdusmanansari
+Thanks to padli and weko oklama
